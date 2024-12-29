@@ -1,0 +1,6 @@
+weather-app/
+│
+├── main.py              # The main script for weather app
+├── config.ini          # Configuration file for storing API key
+├── README.md           # Project description and instructions
+└── requirements.txt    # Required Python dependencies
